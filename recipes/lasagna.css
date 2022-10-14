@@ -2,15 +2,10 @@ div {
     background-color: rgb(131, 0, 0);
     color: rgb(241, 226, 9);
     font-size: 32px;
-    text-align: center;
+    text-align: left;
     font-weight: bold;
 }
 
-p {
+p1 {
     color: red;
-  }
-
-h2 {
-    background-color: brown;
-    color: rgb(255, 238, 0);
   }
